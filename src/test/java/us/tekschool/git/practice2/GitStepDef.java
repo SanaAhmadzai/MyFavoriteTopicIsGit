@@ -4,7 +4,7 @@ public class GitStepDef {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Test Step Def Class");
+		System.out.println("Test Step Def Class with new changes");
 	}
 	
 }
